@@ -1,4 +1,4 @@
-module mproxy
+module github.com/wenlaizhou/mproxy
 
 go 1.17
 
